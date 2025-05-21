@@ -2,7 +2,7 @@
 
 A simple and responsive To-Do List application built with **React JS**, featuring task creation, deletion, and a progress bar to visualize completion.
 
-![Project Screenshot](img/img.jpg)
+![Project Screenshot](img/img.png)
 
 ---
 
