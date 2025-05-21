@@ -1,8 +1,3 @@
-Here's a professional and clean `README.md` for your **ReactJS To-Do List** project with basic file structure and screenshot reference:
-
----
-
-```markdown
 # 📝 React To-Do List App
 
 A simple and responsive To-Do List application built with **React JS**, featuring task creation, deletion, and a progress bar to visualize completion.
@@ -11,24 +6,7 @@ A simple and responsive To-Do List application built with **React JS**, featurin
 
 ---
 
-## 📁 Project Structure
 
-```
-
-.
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── ProgressBar.jsx
-│   │   ├── TodoForm.jsx
-│   │   └── TodoItem.jsx
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
-├── img/
-│   └── img.jpg
-├── package.json
-└── README.md
 
 ````
 
@@ -84,33 +62,9 @@ A simple and responsive To-Do List application built with **React JS**, featurin
 
 ---
 
-## 🧩 Components Overview
-
-### `ProgressBar.jsx`
-
-Displays a progress bar based on the number of completed tasks.
-
-### `TodoForm.jsx`
-
-Input field and button to add new tasks to the list.
-
-### `TodoItem.jsx`
-
-Displays individual to-do items with an option to mark as complete or delete.
-
-### `App.jsx`
-
-Main application logic including state management and component rendering.
-
-### `main.jsx`
-
-Entry point of the React app, renders `<App />`.
-
----
-
 ## 🧑‍💻 Author
 
-* **Your Name** – [@yourGitHub](https://github.com/yourGitHub)
+* **SUjal Mendhe** – [@yourGitHub](https://github.com/sujalmendhe02)
 
 ---
 
@@ -120,15 +74,4 @@ This project is licensed under the MIT License — feel free to use and modify.
 
 ---
 
-## 💡 Future Improvements
 
-* Add task editing
-* Persistent storage using localStorage or Firebase
-* Light/Dark mode toggle
-
----
-
-```
-
-Let me know if you'd like me to generate the actual code for the components like `TodoForm.jsx`, `ProgressBar.jsx`, etc., or if you want this converted into a downloadable `README.md` file.
-```
