@@ -64,7 +64,7 @@ A simple and responsive To-Do List application built with **React JS**, featurin
 
 ## 🧑‍💻 Author
 
-* **Sujal Mendhe** – [@yourGitHub](https://github.com/sujalmendhe02)
+* **Sujal Mendhe** – [@sujalmendhe02](https://github.com/sujalmendhe02)
 
 ---
 
